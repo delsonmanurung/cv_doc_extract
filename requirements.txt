@@ -1,0 +1,18 @@
+# === GENERAL
+llama-cpp-python==0.3.30
+torch==2.12.1
+pydantic==2.13.4
+numpy==1.26.4
+
+# === CV
+ultralytics==8.2.35
+opencv-python==4.11.0.86
+Pillow==12.2.0
+PyMuPDF==1.27.2.3
+langchain-text-splitters==1.1.2
+
+# === NLP
+chromadb==1.5.9
+transformers==5.12.1
+sentencepiece==0.2.1
+
